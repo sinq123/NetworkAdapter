@@ -1,0 +1,3 @@
+NCS_CONNECTED 连接正常 Ncs 已连接
+NCS_DISCONNECTED 禁用连接 ncs 未连接
+NCS_MEDIA_DISCONNECTED (为禁用)连接失败 ncs 媒体未连接
